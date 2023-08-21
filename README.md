@@ -1,0 +1,1 @@
+我们是IntelliFinance Open Source Research Institute(IFOSR)智金开源研究院——一家专注于开源的金融市场分析和投资策略研究的AI技术研究机构。我们的核心使命是利用最先进的人工智能技术给投资人提供合理的投资建议，穿越市场波动，实现财富积累。
